@@ -5,6 +5,7 @@ import styled from '@emotion/styled';
 
 const Name=styled.h2`
 color: #blue;
+font-size: 16px;
 `;
 
 const Card= props=>{
